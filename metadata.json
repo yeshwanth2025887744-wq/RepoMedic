@@ -1,0 +1,6 @@
+{
+  "name": "RepoMedic",
+  "description": "Elite AI-powered DevOps & Software Engineering diagnostic engine. Pinpoint root causes, analyze stack traces, resolve dependency conflicts, and generate instant code patches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
